@@ -1,7 +1,6 @@
 
-## How to get it up and running.
-
-After you clone this project, do the following:
+## How to get it up and running 
+do the following:
 
 ```bash
 # go into the project
